@@ -12,7 +12,7 @@ recipeIngredients("Pizza", 3, ["tomato sauce", "mozzarela"]);
 
 console.log("\n\n");
 
-console.log("Exercitiul 2:");
+console.log("Exercitiul 2");
 
 const removeItem = (obiect, proprietate) => {
   const newobiect = { ...obiect };
